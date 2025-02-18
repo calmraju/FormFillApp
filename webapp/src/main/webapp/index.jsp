@@ -3,10 +3,7 @@
     <h1> Student Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
-<br>
-<label for="Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="name" required>
-<br>
+
     <br>
 
     <label for="email"><b>Email</b></label>
